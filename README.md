@@ -161,6 +161,7 @@ dotenv
 #### resume_parser_ats output
 ![Output_1](https://github.com/user-attachments/assets/4b3a618e-ec55-4823-b625-daec4b2cd817)
 
+
 #### resume_parser_adv output
 ![Output_2](https://github.com/user-attachments/assets/2b5a1016-4b78-45cc-821d-41d9281b0406)
 
